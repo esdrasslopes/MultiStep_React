@@ -9,9 +9,9 @@ Este é um formulário de avaliação de compra de múltiplos passos, criado com
 - **Botão de Envio:** Após revisar as informações, o usuário pode enviar a avaliação.
 
 ### Tecnologias Utilizadas
-- **React:**
-- **CSS:**
-- **Vite:**
+- **React**
+- **CSS**
+- **Vite**
 
 ## Instruções para Rodar o Projeto
 
